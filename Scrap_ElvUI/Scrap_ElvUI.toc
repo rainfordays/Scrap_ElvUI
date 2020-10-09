@@ -1,0 +1,9 @@
+## Interface: 80300
+## Title: Scrap_ElvUI
+## Notes: Fixes scrap icons for ElvUI.
+
+## Author: RainForDays
+## Version: 8.3.2
+## Dependencies: Scrap, ElvUI
+
+core.lua
